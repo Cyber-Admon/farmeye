@@ -158,9 +158,3 @@ plant structures, and non-lab lighting reduce detection confidence and can
 produce misclassifications. Expanding the training set with field-condition
 images is the top priority for improving real-world reliability (see the
 project report, Section 5.2, for the full set of recommendations).
-
-## Author
-
-Muraina Babatunde Idris (2022/40956)
-Department of Computer Science, Osun State University, Osogbo
-Supervised by Dr. K.O. Jimoh
